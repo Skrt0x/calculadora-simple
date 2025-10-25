@@ -1,6 +1,6 @@
 # 🧮 Calculadora Simple
 
-Una calculadora básica creada solo con **HTML**.  
+Una calculadora básica creada con **HTML**.  
 Proyecto hecho para practicar la estructura y el diseño de una página web sin usar CSS ni JavaScript.
 
 ---
